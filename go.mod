@@ -1,4 +1,4 @@
-module github.com/go-ole/go-ole
+module github.com/zxc22zxc/o11e
 
 go 1.12
 
